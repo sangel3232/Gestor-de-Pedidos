@@ -1,0 +1,25 @@
+Priorización de Requisitos - Método MoSCoW
+
+Este documento presenta la aplicación del método MoSCoW para la priorización de los requisitos del proyecto de
+Gestión de Pedidos.
+
+MUST (Obligatorio)- Inicio de sesión- Registro de pedidos- Consulta de pedidos- Filtros por fecha, cliente y canal- Almacenamiento en base de datos- Visualización de pedidos pendientes- Gestión básica de clientes- Seguridad de acceso
+
+SHOULD (Muy Importante)- Generación de reportes- Exportación a Excel/PDF- Historial de pedidos- Gestión de usuarios- Notificaciones internas- Impresión de pedidos
+
+COULD (Opcional)- Dashboard con gráficas- Modo oscuro- Personalización de interfaz- Aplicación móvil- Chat interno- Integración con correo
+WON'T (No por ahora)- Pasarela de pagos en línea- Integración bancaria- Inteligencia artificial- Sistema multiempresa- Marketplace- ERP completo
+Resumen de Priorización MoSCoW
+
+Categoría
+Must
+Should
+Could
+Descripción
+Funciones esenciales del sistema
+Funciones importantes para mejorar el sistema
+Funciones opcionales
+Won’t
+Proyecto: Sistema de Gestión de Pedidos
+
+Funciones no incluidas en esta versión
