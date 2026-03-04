@@ -1,7 +1,7 @@
 # Gestor-de-Pedidos
 #  Gestor de Pedidos — Plataforma Multiciudad de Gestión Comercial
 
-## 📌 1. Problema
+##  1. Problema
 
 Muchas pequeñas y medianas empresas gestionan pedidos de forma manual o con sistemas poco integrados, lo que genera:
 
@@ -13,7 +13,7 @@ Muchas pequeñas y medianas empresas gestionan pedidos de forma manual o con sis
 
 ---
 
-## 💡 2. Solución
+##  2. Solución
 
 **Gestor de Pedidos** es una plataforma web que permite:
 
@@ -28,7 +28,7 @@ Actualmente el MVP incluye un CRUD funcional desarrollado en Spring Boot.
 
 ---
 
-## 🚀 3. Diferenciador Tecnológico
+##  3. Diferenciador Tecnológico
 
 - Arquitectura basada en microservicios (evolutiva)  
 - Escalable a múltiples ciudades  
@@ -40,7 +40,7 @@ Actualmente el MVP incluye un CRUD funcional desarrollado en Spring Boot.
 
 ---
 
-## 🏗 4. Arquitectura Propuesta
+##  4. Arquitectura Propuesta
 
 ### Backend
 - Spring Boot  
@@ -66,7 +66,7 @@ Actualmente el MVP incluye un CRUD funcional desarrollado en Spring Boot.
 
 ---
 
-## 📦 5. Alcance del MVP
+##  5. Alcance del MVP
 
 ### ✔ Registro de usuarios
 Roles:
@@ -97,7 +97,7 @@ Roles:
 
 ---
 
-## 🧠 6. Implementación Técnica Actual (Avance Real)
+##  6. Implementación Técnica Actual (Avance Real)
 
 Actualmente se tiene:
 
