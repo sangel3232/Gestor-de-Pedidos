@@ -46,7 +46,7 @@ Actualmente el MVP incluye un CRUD funcional desarrollado en Spring Boot.
 - Spring Boot  
 - Microservicios planificados:
   - Auth  
-  - Clientes  
+  - Clientes / Administrador 
   - Pedidos  
   - Pagos (mock)  
   - Notificaciones  
